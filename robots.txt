@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpangoosh.cjcjcj.top/sitemap.xml
